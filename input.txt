@@ -1,0 +1,7 @@
+java
+junit
+sql
+python
+selenium
+testng
+cucumber
